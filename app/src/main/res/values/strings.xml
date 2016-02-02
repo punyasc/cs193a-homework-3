@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS 193A Homework 3</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spinnerArray">
+        <item>Simple</item>
+        <item>Tarzan</item>
+        <item>University</item>
+        <item>Clothes</item>
+        <item>Dance</item>
+    </string-array>
+    <string name="spinnerPrompt">Choose which Madlib to do</string>
+</resources>
